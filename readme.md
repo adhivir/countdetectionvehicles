@@ -1,4 +1,5 @@
 ADHIVIR SINGH RANA      101866009       CS3
+
 NOTE:THE CODE IS AVAILABLE IN IPYNB FILE AS WELL AND THE SCREENSHOTS OF I/O AND METHODOLOGY IS PRESENT IN THE FOLDER.
 
 In this project, we will be working on detecting and counting vehicles in a given image. We will be using OpenCV for image processing and Haar cascade which is used for object detection.
